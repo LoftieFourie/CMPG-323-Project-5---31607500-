@@ -11,6 +11,12 @@ This taught us many skills as well how to visualize data.
 
 Using Power Bi was a good experience and taught me alot about how to view data as well as display the best and most usefull data. in this project I used knowledge gained on microsoft courses as well as online tutorials to display data in a profesional manner. this allowed me to analize the data and also extract the most valuable data and display it visually on different types of graphs. Using filters allowed the data to be even more valueble as it is easier to distinguish valueble data from unnecesary data.
 
+# Link to Power Bi repository
+
+anyone using their NWU msfed account is able to view the project by clicking the link below as it uses my device as a local gateway for others to view the report.
+
+    https://app.powerbi.com/links/61AZrCOmMK?ctid=331c86e7-d032-436f-bc53-f2552d031012&pbi_source=linkShare
+
 # Future
 
 Power Bi is a very helpfull tool and I will continue to use it where it is neccesary. I am busy doing more courses on Power Bi and thus gaining a more in-depth knowledge on its uses and funtions. This will allow me to represtent any data visually as well as analyze data more conveniently Thus I consider Power Bi to be a very powerfull and usefull tool for my future and my career.
